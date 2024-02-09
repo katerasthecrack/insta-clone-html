@@ -1,4 +1,4 @@
-<a href="https://discord.gg/armada"><img src="http://www.image-heberg.fr/files/1707428405300776970.png"></a>
+<a href="https://discord.gg/armada"><img src="http://www.image-heberg.fr/files/17074936033939085635.png"></a>
 
 <p align="center">
   <a href="#overview">Presentation</a>
